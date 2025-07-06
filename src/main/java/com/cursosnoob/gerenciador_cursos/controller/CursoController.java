@@ -1,6 +1,7 @@
-package com.cursosnoob.controller;
-import com.cursosnoob.model.Curso;
-import com.cursosnoob.repository.CursoRepository;
+package com.cursosnoob.gerenciador_cursos.controller;
+import com.cursosnoob.gerenciador_cursos.model.Curso;
+import com.cursosnoob.gerenciador_cursos.repository.CursoRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

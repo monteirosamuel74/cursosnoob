@@ -1,4 +1,4 @@
-package com.cursosnoob.model;
+package com.cursosnoob.gerenciador_cursos.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
